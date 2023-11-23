@@ -2,6 +2,7 @@
 a passionate web developer and student
 
 # 💫 About Me:
+- 🌐 <a href="https://aayushgirdhar.netlify.app" target="_blank"> My portfolio </a>
 - 🔭 I’m currently working on **Roaming Diaries**
 - 💬 Ask me about **MERN Stack, C++, JAVA, Python, DSA**
 - 📫 How to reach me **aayush.girdhar2@gmail.com**
