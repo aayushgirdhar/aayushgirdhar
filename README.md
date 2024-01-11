@@ -3,7 +3,7 @@ a passionate web developer and student
 
 # 💫 About Me:
 - 🌐 <a href="https://aayushgirdhar.netlify.app" target="_blank"> My portfolio </a>
-- 🔭 I’m currently working on **Roaming Diaries**
+- 🔭 I’m currently working on **Roaming Diaries** and learning **NEXT.js 14** and **Golang**
 - 💬 Ask me about **MERN Stack, C++, JAVA, Python, DSA**
 - 📫 How to reach me **aayush.girdhar2@gmail.com**
 - 📄 Know about my experiences - <a href="https://drive.google.com/file/d/1UEgRjk1GtQp9Wtb63qAuMvGuyemRbq0p/view?usp=sharing](https://drive.google.com/file/d/1UEgRjk1GtQp9Wtb63qAuMvGuyemRbq0p/view?usp=sharing">Resume</a>
