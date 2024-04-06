@@ -2,7 +2,7 @@
 a passionate web developer and student
 
 # 💫 About Me:
-- 🌐 <a href="https://aayushgirdhar.netlify.app" target="_blank"> My portfolio </a>
+- 🌐 <a href="https://aayushgirdhar.tech" target="_blank"> My portfolio </a>
 - 🔭 I’m currently working on **FairShare** and learning **NEXT.js 14**
 - 💬 Ask me about **MERN Stack, C++, JAVA, Python, DSA**
 - 📫 How to reach me **aayush.girdhar2@gmail.com**
